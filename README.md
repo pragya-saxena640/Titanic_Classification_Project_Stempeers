@@ -1,2 +1,2 @@
-# pragyas_titanic_classification_project
+# Titanic Classification Project
 summer internship final project
