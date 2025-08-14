@@ -19,3 +19,8 @@ Date: 2025-08-05
 # Accuracy and analysis
 * All 3 models were fairly accurate, with its accuracy score being around 74%-78%
 * I used an confusion matrix for the logistic regression
+
+# Improvement
+* Although all the models were pretty accurate, all of their accuracy scores were around the same, so I can improve it by adding feature engineering which is selecting, creating, and transforming features to better the models accuracy
+* Instead of dropping the rows that had missing data, I could've filled it with the median age
+* I could've used feature scaling, which improves convergence and performance in logistic regression
