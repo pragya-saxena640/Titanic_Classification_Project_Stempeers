@@ -14,7 +14,7 @@ Date: 2025-08-05
 # Data preparation
 * I used relevant data in the csv file, which were the columns pclass, sex, age, fare, sibsp, parch
 * I dropped andy rows that had missing data
-* The categorical column ‘Sex’ was converted into numerical values: male as 0 and female as 1.
+* I had to turn different categorical culoumns into numbers, like with the column ‘Sex’ was converted into numerical values: male as 0 and female as 1.
 
 # Accuracy and analysis
 * All 3 models were fairly accurate, with its accuracy score being around 74%-78%
