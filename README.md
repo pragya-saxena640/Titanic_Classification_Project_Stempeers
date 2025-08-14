@@ -8,7 +8,7 @@ Date: 2025-08-05
 - In my project, I built 3 models, which were logistic regression, decision tree, and random forest
 - I uttilized the sci-kit learn classifier for the titanic data classification
 - We have used the module Pandas for data analysis
-- The goal for this project was to determine if the ML model i built
+- The goal for this project was to determine if the ML model I built
   can accuratlty predict whether the passnegers would surive or not
   
 # Data preparation
